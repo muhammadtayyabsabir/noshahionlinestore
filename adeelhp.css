@@ -1,0 +1,8 @@
+.laptop{
+    display: flex;
+    flex-direction: row;
+    
+}
+.carousel-caption d-none d-md-block h2{
+    color: black;
+}

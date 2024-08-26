@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(199, 180, 180);
+}
+
+.welcome-noshahi {
+    width: 750px;
+    margin-left: 450px;
+    margin-top: 70px;
+    height: 150px;
+    padding: 10px;
+}
+
+.welcome-noshahi h1{
+    font-size: 45px;
+    color: red;
+}
+
+.welcome-noshahi h5{
+    margin-left: 257px;
+}
+
+.our-product h2{
+    font-size: 50px;
+    margin-left: 20px;
+}
+.tablet{
+    
+    background-color: white;
+    
+}
+.peragraph{
+    margin-top: 70px;
+    margin-left: 460px;
+    width: 560px;
+    background-color: white;
+    
+}
+
+.peragraph-heading{
+    margin-left: 210px;
+    color: blue;
+}
+.peragraph-text{
+    margin-left: 5px;
+    padding: 15px;
+} 
+.futer h5{
+    border: 2px solid red;
+    width: 170px;
+}
+.home{
+    margin-left: 100px;
+}
+.nos img{
+    width: 50px;
+    border-radius: 100px;
+}
+.facebook img{
+    width: 80px;
+    border-radius: 200px;
+    margin-left: 200px;
+    margin-top: -210px;
+}
+.instagram img{
+    width: 80px;
+    border-radius: 200px;
+    margin-left: 320px;
+    margin-top: -250px;
+}
+.twitter img{
+    width: 80px;
+    border-radius: 200px;
+    margin-left: 450px;
+    margin-top: -290px;
+}
